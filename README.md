@@ -89,7 +89,7 @@ TIPs are separated into several types, and each has its list of TIPs.
 
 Proposal is designed to modify the dynamic parameters such as block rewards and transaction fees on the TRON network by TRON committee.
 
-Please check all proposal histories from [Proposal Details](./proposals/README.md)
+Please check proposal record from [Proposal Details](./proposals/README.md)
 
 ***
 For further discussion, please enter [Telegram](https://t.me/troncoredevscommunity)  
