@@ -10,7 +10,7 @@ TRON Improvement Proposals (TIPs) describe standards for the TRON platform, incl
     * [To Submit a TIP](#to-submit-a-tip)
     * [TIP Status](#tip-status)
     * [TIP Types](#tip-types)
-* [Proposals](./proposals/README.md)
+* [Proposals](#proposals)
 
 ## TIPs Index  
 
